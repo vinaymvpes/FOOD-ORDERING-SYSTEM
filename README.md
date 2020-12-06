@@ -1,5 +1,4 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+Hello,
 
 To use this application, 
 
@@ -10,7 +9,5 @@ To use this application,
 
 If you have problem, feel free to ask me ^^ 
 
-You can watch the tutorial for this app.
 
-https://www.youtube.com/watch?v=zaWtIkJgah4&t=5569s
 
